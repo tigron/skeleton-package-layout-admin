@@ -5,6 +5,8 @@
     "require-dev": {
     },
     "require" : {
+        "bower-asset/jquery": "*",
+        "bower-asset/bootstrap": "3.3.*",
     },
     "license": "MIT",
     "authors": [
