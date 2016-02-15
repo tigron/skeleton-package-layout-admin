@@ -1,0 +1,24 @@
+{
+    "name": "tigron/skeleton-package-layout-admin",
+    "description": "Basic bootstrap admin UI",
+    "type": "library",
+    "require-dev": {
+    },
+    "require" : {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tigron BVBA",
+            "email": "support@tigron.be"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/tigron/skeleton-package-layout-admin",
+        "issues": "https://github.com/tigron/skeleton-package-layout-admin/issues"
+    },
+    "autoload": {
+        "psr-4": { "Skeleton\\Package\\": "lib/Skeleton/Package/" }
+    }
+
+}
