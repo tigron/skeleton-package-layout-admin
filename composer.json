@@ -4,10 +4,6 @@
     "type": "library",
     "require-dev": {
     },
-    "require" : {
-        "bower-asset/jquery": "*",
-        "bower-asset/bootstrap": "*"
-    },
     "license": "MIT",
     "authors": [
         {
